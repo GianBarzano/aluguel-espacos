@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629860909774,
+  "timestamp": 1629861214645,
   "index": "/aluguel-espacos/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/aluguel-espacos/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/aluguel-espacos/index.html": "ca6533ce858d2c8e0e31651c64db338adc7c4b56",
     "/aluguel-espacos/main.804bfafd9cea8daf3090.js": "8601c8dc4a150e5a2f14da32828adada81167fe4",
-    "/aluguel-espacos/manifest.webmanifest": "bb4abfe34797e64b4caeaa74f5a9d38689588b33",
+    "/aluguel-espacos/manifest.webmanifest": "82af08e9c6c020bd746e34c2113c31f4dd253438",
     "/aluguel-espacos/polyfills.84397228cc4edfbc4b1e.js": "bca8c01280247a4a893b8a0b13feab07af84fb99",
     "/aluguel-espacos/runtime.bad1bbe5384d3be8aefa.js": "21e93d5a9f24b98ba3da40dc53e812716aba931e",
     "/aluguel-espacos/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
